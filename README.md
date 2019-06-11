@@ -1,2 +1,2 @@
-# assignment_week1
+# summer analytics
 summer analytics assignment
